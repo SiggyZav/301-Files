@@ -1,0 +1,15 @@
+#lookup {
+    background-color: #b9baa3;
+    display: flex;
+    justify-content: space-around;
+    padding: 0 20px 0 20px;
+}
+#lookup a {
+    text-decoration: none;
+    color: #0A100D;
+    padding: 8px;
+    font-size: large;
+}
+#titles h2 {
+    color: #b9baa3;
+}

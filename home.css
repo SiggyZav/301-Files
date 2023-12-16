@@ -1,0 +1,11 @@
+main {
+    display: flex;
+}
+main h2 {
+    color: #d6d5c9;
+    text-align: center;
+}
+figure {
+    color: #b9baa3;
+    padding: 10%;
+}

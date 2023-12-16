@@ -1,0 +1,40 @@
+main {
+    display: flex;
+    flex-direction: column;
+}
+figure img {
+    max-width: 400px;
+}
+figcaption {
+    font-size: x-large;
+    text-align: center;
+}
+figure {
+    align-self: center;
+}
+h3 {
+    font-size: xx-large;
+}
+.Review {
+    background-color: #b9baa3;
+    padding: 5%;
+}
+p {
+    font-size: large;
+}
+#star {
+    max-width: 100px;
+}
+.rating {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+}
+#rateHeader {
+    padding: 20px ;
+    background-color: #b9baa3;
+    width: 200px;
+    align-self: center;
+    text-align: center;
+    font-size: xx-large;
+}
